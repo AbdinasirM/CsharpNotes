@@ -1,6 +1,6 @@
 # C# Basics - Random Numbers
 
-Welcome to this introduction to generating random numbers in C#! This guide explains how to create random numbers and provides simple examples to help you get started.
+Welcome to this introduction to generating random numbers in C#! This guide explains how to create random numbers and provides simple examples to help you **get** started.
 
 ## Table of Contents
 - [C# Basics - Random Numbers](#c-basics---random-numbers)
