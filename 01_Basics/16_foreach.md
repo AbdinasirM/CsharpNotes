@@ -1,7 +1,6 @@
 # C# Foreach Loop Example
 
 This project demonstrates how to use the `foreach` loop in C#. The `foreach` loop provides a simpler way to iterate over arrays and collections. It is less flexible than a traditional `for` loop but enhances readability and reduces the risk of errors.
-
 ## Code Overview
 ```csharp
 using System;
